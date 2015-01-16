@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyFoody</string>
+    <string name="hello_world">Its just in a click, you would be seated and packed food Enjoy!</string>
+    <string name="action_settings">Settings</string>
+    <string name="easyfoody">EasyFoody</string>
+    <string name="about">ABOUT</string>
+    
+
+</resources>
